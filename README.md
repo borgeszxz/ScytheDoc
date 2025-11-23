@@ -1,6 +1,6 @@
 # Scythe
 
-Bem-vindo à **Scythe**, uma plataforma completa de e-commerce desenvolvida para a venda e gerenciamento de softwares digitais premium. Este projeto foi construído com foco em **segurança**, **design moderno** (estilo Cyberpunk/Glassmorphism) e **experiência do usuário**.
+Bem-vindo à **Scythe**, uma plataforma completa de e-commerce desenvolvida para a venda e gerenciamento de softwares digitais. Este projeto foi construído com foco em **segurança**, **design moderno** (estilo Cyberpunk/Glassmorphism) e **experiência do usuário**.
 
 A plataforma oferece um ecossistema robusto que conecta os usuários finais aos seus produtos através de um dashboard intuitivo e fornece aos administradores controle total sobre vendas e licenças.
 
