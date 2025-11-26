@@ -6,15 +6,15 @@ A plataforma oferece um ecossistema robusto que conecta os usuários finais aos 
 
 ## 📸 Imagens do Projeto
 
-![Home](https://cdn.discordapp.com/attachments/1097281959538991235/1442202165291778189/Home_1.png?ex=692492ef&is=6923416f&hm=6d6275d2a9c49b03a286c9b5a1e375782dcf646d984bdd19a98a7d4c9d82d191&)
-![Home](https://cdn.discordapp.com/attachments/1097281959538991235/1442203183089844357/image.png?ex=692493e1&is=69234261&hm=8807c4195ba6f040b64851bcb9edde041219a5f25163764a34b54a21cf062162&)
-![Home](https://media.discordapp.net/attachments/1097281959538991235/1442202168269471894/Home_2.png?ex=692492ef&is=6923416f&hm=903ada5b2cf66add0ec68cb2c3cc0db6ad7babef11c440449e6e618e2799de2d&=&format=webp&quality=lossless&width=1768&height=724)
-![Store](https://media.discordapp.net/attachments/1097281959538991235/1442202167879667732/Store.png?ex=692492ef&is=6923416f&hm=3e9867eb678bd52455b80fc92fbe3cac6f7ad945dbd728ae349c83801a82118f&=&format=webp&quality=lossless&width=1734&height=864)
-![Store](https://media.discordapp.net/attachments/1097281959538991235/1442202167535603794/Store_2.png?ex=692492ef&is=6923416f&hm=4dcb292d1df8de944ef8a044c5e2d3cdbe68d5810d7b4fd953e5d13476c6b8a4&=&format=webp&quality=lossless)
-![Status](https://cdn.discordapp.com/attachments/1097281959538991235/1442203122427629800/image.png?ex=692493d3&is=69234253&hm=c7e48c18784adacbc65877fe229a5cc1b08ee0244a55bdc3d583161b727baf56&)
-![Dashboard](https://media.discordapp.net/attachments/1097281959538991235/1442202166713389287/Dashboard_1.png?ex=692492ef&is=6923416f&hm=94d999a0585d202a473d786d65c3c6bd86557b440bf086cc50c78590828605dd&=&format=webp&quality=lossless)
-![Dashboard](https://cdn.discordapp.com/attachments/1097281959538991235/1442202747456978984/image.png?ex=69249379&is=692341f9&hm=ab704c57f34f88f82eb8646b33f8c93ab318cf4ca4edf080d51339b949658703&)
-![Dashboard](https://media.discordapp.net/attachments/1097281959538991235/1442202165811740965/Dashbaord_3.png?ex=692492ef&is=6923416f&hm=222b7801735a9006d82a89cc02f8b28f2c4094654c702d8f194c25656f43502f&=&format=webp&quality=lossless)
+![Home](https://i.imgur.com/A3aNQoY.png)
+![Home](https://i.imgur.com/t05Up4k.png)
+![Home](https://i.imgur.com/szonBBN.png)
+![Store](https://i.imgur.com/9tRGhSm.png)
+![Store](https://i.imgur.com/P3nUbYi.png)
+![Status](https://i.imgur.com/vuthxKd.png)
+![Dashboard](https://i.imgur.com/dmviJys.png)
+![Dashboard](https://i.imgur.com/pP3xFKU.png)
+![Dashboard](https://i.imgur.com/89zJWJr.png)
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -83,15 +83,15 @@ The platform offers a robust ecosystem that connects end users to their products
 
 ## 📸 Project Images
 
-![Home](https://cdn.discordapp.com/attachments/1097281959538991235/1442202165291778189/Home_1.png?ex=692492ef&is=6923416f&hm=6d6275d2a9c49b03a286c9b5a1e375782dcf646d984bdd19a98a7d4c9d82d191&)
-![Home](https://cdn.discordapp.com/attachments/1097281959538991235/1442203183089844357/image.png?ex=692493e1&is=69234261&hm=8807c4195ba6f040b64851bcb9edde041219a5f25163764a34b54a21cf062162&)
-![Home](https://media.discordapp.net/attachments/1097281959538991235/1442202168269471894/Home_2.png?ex=692492ef&is=6923416f&hm=903ada5b2cf66add0ec68cb2c3cc0db6ad7babef11c440449e6e618e2799de2d&=&format=webp&quality=lossless&width=1768&height=724)
-![Store](https://media.discordapp.net/attachments/1097281959538991235/1442202167879667732/Store.png?ex=692492ef&is=6923416f&hm=3e9867eb678bd52455b80fc92fbe3cac6f7ad945dbd728ae349c83801a82118f&=&format=webp&quality=lossless&width=1734&height=864)
-![Store](https://media.discordapp.net/attachments/1097281959538991235/1442202167535603794/Store_2.png?ex=692492ef&is=6923416f&hm=4dcb292d1df8de944ef8a044c5e2d3cdbe68d5810d7b4fd953e5d13476c6b8a4&=&format=webp&quality=lossless)
-![Status](https://cdn.discordapp.com/attachments/1097281959538991235/1442203122427629800/image.png?ex=692493d3&is=69234253&hm=c7e48c18784adacbc65877fe229a5cc1b08ee0244a55bdc3d583161b727baf56&)
-![Dashboard](https://media.discordapp.net/attachments/1097281959538991235/1442202166713389287/Dashboard_1.png?ex=692492ef&is=6923416f&hm=94d999a0585d202a473d786d65c3c6bd86557b440bf086cc50c78590828605dd&=&format=webp&quality=lossless)
-![Dashboard](https://cdn.discordapp.com/attachments/1097281959538991235/1442202747456978984/image.png?ex=69249379&is=692341f9&hm=ab704c57f34f88f82eb8646b33f8c93ab318cf4ca4edf080d51339b949658703&)
-![Dashboard](https://media.discordapp.net/attachments/1097281959538991235/1442202165811740965/Dashbaord_3.png?ex=692492ef&is=6923416f&hm=222b7801735a9006d82a89cc02f8b28f2c4094654c702d8f194c25656f43502f&=&format=webp&quality=lossless)
+![Home](https://i.imgur.com/A3aNQoY.png)
+![Home](https://i.imgur.com/t05Up4k.png)
+![Home](https://i.imgur.com/szonBBN.png)
+![Store](https://i.imgur.com/9tRGhSm.png)
+![Store](https://i.imgur.com/P3nUbYi.png)
+![Status](https://i.imgur.com/vuthxKd.png)
+![Dashboard](https://i.imgur.com/dmviJys.png)
+![Dashboard](https://i.imgur.com/pP3xFKU.png)
+![Dashboard](https://i.imgur.com/89zJWJr.png)
 
 ## 🚀 Technologies Used
 
